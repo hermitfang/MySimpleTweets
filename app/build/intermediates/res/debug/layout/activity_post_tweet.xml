@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="6dp"
+    android:paddingRight="6dp"
+    android:paddingTop="6dp"
+    android:paddingBottom="6dp"
+    android:background="#abaeb7"
+    tools:context="com.codepath.apps.mysimpletweets.activities.PostTweetActivity">
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel_tweet"
+        android:id="@+id/btnCancel"
+        android:onClick="onCancelTweet"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:width="100dp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/post_tweet"
+        android:id="@+id/btnPost"
+        android:onClick="onPostTweet"
+        android:layout_alignTop="@+id/btnCancel"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:width="100dp" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/ivMyThumb"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/btnCancel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/tvMyName"
+        android:background="#FFFFFF"
+        android:layout_alignTop="@+id/ivMyThumb"
+        android:layout_toRightOf="@+id/ivMyThumb"
+        android:gravity="center_vertical"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:paddingStart="16dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/etPost"
+        android:background="#FFFFFF"
+        android:layout_below="@+id/ivMyThumb"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:gravity="top"
+        android:padding="5dp" />
+
+</RelativeLayout>
+<!-- From: file:/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/src/main/res/layout/activity_post_tweet.xml -->

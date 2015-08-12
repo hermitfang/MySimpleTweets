@@ -1,0 +1,12 @@
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/classes/debug
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-2dc1ade8d572de14f22c727c60d88f52aff7ff20.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-508c95d3a707afdf58798816b7ecbec795d13095.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-cd8319f534e51e30a45e906bbbcc5104603363a9.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-5e46f4090416b6bf1bd8988006b7bde693db743b.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-4abd0522d3a2528bb8f8997e38e53cc2bd6c6fb6.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-6aa0f3a1459f9b287e56435dd2b1c11785987bac.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-2549b083ecd5e5693ddc9957820bbafbfb80e8b8.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/commons-io-2.4-06056482fbb96ac00f9cbda22f1ed65aab079031.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-88def39f539f15327e8ae1859ba00c6dcfef486e.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-058d81c40f8a10e7f989a45eb42d9ad88d154bc6.jar
+/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-bf8cd7bcb95f0d500bd4f7929e0acbf4b515c8e6.jar
